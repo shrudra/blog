@@ -3,7 +3,6 @@ layout: page
 title: Work Experience 
 permalink: /work-experience/
 ---
-### Work Experience 
 <!-- workplace -->
   <hr>  
   <div class="row">
@@ -47,4 +46,4 @@ permalink: /work-experience/
   </p>
   </div>
   </div>
-  </div>
+  
