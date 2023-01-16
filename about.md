@@ -5,7 +5,7 @@ permalink: /about/
 ---
 ![Heakathon](https://raw.githubusercontent.com/sakhsain/sakhsain/main/hackathon.jpg)
 
-Hello, I am Sakhawat Hossain, a Software Developer, an Open-Source Enthusiast and a Blogger. I'm from Bangladesh. I am currently studying Diploma in Engg. in the Dept. of Computer Science and Technology (CST) at the Dhaka Polytechnic Institute. I am involved in various clubs, societies and extracurricular activities on my campus.
+Hello, I am Sakhawat Hossain, a Software Developer, an Open-Source Enthusiast and a Blogger. I'm from Bangladesh :bangladesh:. I am currently studying Diploma in Engg. in the Dept. of Computer Science and Technology (CST) at the Dhaka Polytechnic Institute. I am involved in various clubs, societies and extracurricular activities on my campus.
 
 ### Contact me
 
