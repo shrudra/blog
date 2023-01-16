@@ -22,7 +22,7 @@ It’s will take few seconds to install. After installed, we now need to write a
 
 Below is the implementation.
 
-```
+```python
 #Python Program to taking a screenshot
  
 #To import pyautogui module
