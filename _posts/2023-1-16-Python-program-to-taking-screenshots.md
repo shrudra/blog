@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Python program to taking a screenshot
+title: Python program to taking screenshots
 ---
 In this article, We will create a program in Python that will take screenshots on our computer.So don’t waste your time, open your computer quickly.
 
