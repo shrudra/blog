@@ -4,7 +4,7 @@ title: Top 2 most useful websites to share code
 ---
 
 
-On social media platforms, many people, especially computer science students, copy and paste the code in comments or messages to share with others. Sometimes the indentation is lost. And many people share screenshots of the code. This makes the codes look very bad. Sometimes, user can't read code properly.
+On social media platforms, many people, especially computer science students, copy and paste the code in comments or messages to share with others. Sometimes the indentation is lost. And some people share screenshots of the code. This makes the codes look very bad. Sometimes, user can't read the code properly.
 
 So there are numerous tools on the internet to share code. I have collected the names of two websites from among them and mentioned below.
 
