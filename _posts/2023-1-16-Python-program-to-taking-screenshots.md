@@ -8,13 +8,13 @@ In order to take screenshots we need to install a module that can control the mo
 
 To install PyAutoGUI type the below command in the terminal.
 
-```bash
+```
 pip install pyautogui
 ```
 
 Now we need to install the pillow package.To install Pillow type the below command in the terminal.
 
-```bash
+```
 pip install Pillow
 ```
 
