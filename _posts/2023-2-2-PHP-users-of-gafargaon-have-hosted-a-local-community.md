@@ -1,6 +1,6 @@
 ---
 layout: post
-title: PHP users have hosted a local community in Gafargaon 
+title: PHP users of Gafargaon have hosted a local community 
 ---
 ![](https://raw.githubusercontent.com/sakhsain/sakhsain.github.io/master/images/phpuggafaon.png)
 *PHP User Group Gafargaon*
