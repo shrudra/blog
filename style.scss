@@ -69,11 +69,11 @@ p {
 }
 
 a {
-  color: $lightGray;
+  color: $darkGray;
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
-    color: $lightGray;
+    color: $darkGray;
   }
 }
 
@@ -225,7 +225,7 @@ nav {
 
   a {
     margin-left: 20px;
-    color: $lightGray;
+    color: $darkGray;
     text-align: right;
     font-weight: 300;
     letter-spacing: 1px;
