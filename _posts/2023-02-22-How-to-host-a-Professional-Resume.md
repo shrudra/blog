@@ -57,4 +57,4 @@ baseurl: "/myCV" #My Repo name is myCV
 
 Now edit the `index.md` file as you wish. You can write here about yourself, your current employment, your experience and whatever you want. After edited the file, then Go to settings and set master branch as Github Pages source. Now, Your Resume / CV should be ready at `https://<username>.github.io/repo-name/`
 
-Congratulations 🎉, you've finally hosted your Resume which you can later edit using only Markdown and change the style of the Resume.
+Congratulations 🎉, you've finally hosted your Resume. 
