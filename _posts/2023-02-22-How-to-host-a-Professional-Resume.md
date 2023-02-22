@@ -16,7 +16,7 @@ Now, you have to fork the repository. After forked,  you can rename your reposit
 
 ![Fork](https://raw.githubusercontent.com/sakhsain/jekyll-vitae/main/assets/images/fork.png "Fork")
 
-Edit  `_config.yml` . In this file, you can change your site name, your social links, you can add favicon and whatever you want. 
+Edit  __config.yml_ . In this file, you can change your site name, your social links, you can add favicon and whatever you want. 
 
  An example of these edited code is below.
 
@@ -55,6 +55,6 @@ linkedin:  # URL of your linkedin address
 baseurl: "/myCV" #My Repo name is myCV
 ```
 
-Now edit the `index.md` file as you wish. You can write here about yourself, your current employment, your experience and whatever you want. After edited the file, then Go to settings and set master branch as Github Pages source. Now, Your Resume / CV should be ready at `https://<username>.github.io/repo-name/`
+Now edit the _index.md_ file as you wish. You can write here about yourself, your current employment, your experience and whatever you want. After edited the file, then Go to settings and set master branch as Github Pages source. Now, Your Resume / CV should be ready at _https://<username>.github.io/repo-name/_
 
 Congratulations 🎉, you've finally hosted your Resume which you can later edit using only Markdown and change the style of the Resume.
