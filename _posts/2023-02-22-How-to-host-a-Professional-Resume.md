@@ -9,7 +9,7 @@ Want to make a professional resume and share it with your boss? 😁 So, you’v
 
 Jekyll is a static site generator that's can deploy your repository as a website. So, let's build your Resume.
 
-First of all, you must have a GitHub account . Then you need to find a Jekyll theme you like. I will recommend you to use the Jekyll Vitae. Because, It looks like a professional CV, as there are no additional colors or images used that are characteristic of an ideal CV. It's super easy and easy to use.
+First of all, you must have a GitHub account . Then you need to find a Jekyll theme you like. I will recommend you to use the <a href="https://github.com/sakhsain/jekyll-vitae">**Jekyll Vitae**</a>. Because, It looks like a professional CV, as there are no additional colors or images used that are characteristic of an ideal CV. And It's super easy and easy to use.
 
 Now, you have to fork the repository. After forked,  you can rename your repository.
 
