@@ -22,25 +22,4 @@ It’s will take few seconds to install. After installed, we now need to write a
 
 Below is the implementation.
 
-```python
-#Python Program to taking a screenshot
- 
-#To import pyautogui module
-import pyautogui 
- 
-#To import time module
-import time 
- 
-#To take screenshot after 5 seconds
-time.sleep(5) 
- 
-#To take screenshot 
-screenshot = pyautogui.screenshot() 
- 
-#To save the screenshot
-#This image will be saved inside this directory
-screenshot.save('image.png')  
- 
-#Will print a message in terminal, after taken the screenshot
-print('screenshot taken.') 
-```
+<script src="https://gist.github.com/shrudra/86d472ef6f55ccf988a44767a70b7de9.js"></script>
