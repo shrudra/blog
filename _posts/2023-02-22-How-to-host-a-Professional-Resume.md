@@ -3,7 +3,7 @@ layout: post
 title: How to host a Professional Resume with Jekyll and GitHub Pages
 ---
 
-![Jekyll Vitae Theme Screenshot](https://raw.githubusercontent.com/sakhsain/jekyll-vitae/main/assets/images/jekyll-vitae-theme-screenshot.png "Jekyll Vitae Theme Screenshot")
+<!-- ![Jekyll Vitae Theme Screenshot](https://raw.githubusercontent.com/sakhsain/jekyll-vitae/main/assets/images/jekyll-vitae-theme-screenshot.png "Jekyll Vitae Theme Screenshot") -->
 
 Want to make a professional resume and share it with your boss? 😁 So, you’ve come to the right place! today I'll tell you how you can create your Resume / CV with Jekyll and GitHub Pages.
 
