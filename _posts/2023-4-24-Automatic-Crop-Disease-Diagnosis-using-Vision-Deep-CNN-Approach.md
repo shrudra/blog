@@ -2,7 +2,7 @@
 
 layout: post
 
-title: Automatic crop disease diagnosis using deep learning models
+title: Automatic Crop Disease Diagnosis using Vision Deep CNN Approach
 
 ---
 
