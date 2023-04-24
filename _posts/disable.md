@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: disable 
 title: স্ক্র্যাচ দিয়ে গেম -০১
 ---
 
