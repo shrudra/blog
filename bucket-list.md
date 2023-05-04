@@ -9,7 +9,7 @@ permalink: /about/bucket-list/
 <p>I began this list in 2020. When I accomplish a goal, I mark it. I can add but not remove items.</p>
 
 <ul>
-      <li><strike>Study Computer Technology Engineering at Dhaka Polytechnic Institute.</strike></li>
+      <li><strike>Secure your admission to the Diploma in Engineering program with a specialization in Computer Technology at Dhaka Polytechnic Institute.</strike></li>
       <li>Start a computer programming club on campus.</li>
       <li><strike>Join the IDEB IoT & Robotics Research Lab.</strike></li>
       <li>Volunteer at IDEB Research and Technological Institute.</li>
