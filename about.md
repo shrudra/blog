@@ -3,6 +3,16 @@ layout: page
 title: About
 permalink: /about/
 ---
+# Hi There!
+
+My name is Sakhawat Hossain (you can call me 'S. Hossain') and I'm from Dhaka. I'm the coordinator at [Scratch Bangladesh](https://scratchbangladesh.com/). Where, I am planning and organizing events and activities to showcase Scratch projects and inspire children for learning programming.
+
+## 6 Random Facts About Me
+
+1. I like to eat biryani, phuchka and haleem very much
+2. I keep a running list of [My Life's Bucket List: Goals to Achieve]({{ site.baseurl }}/about/bucket-list/).
+3. I daily write blog on [dev.to](https://dev.to/shrudra).
+3. My hometown is Mymensingh, Bangladesh.
 
 
 ### Contact me
