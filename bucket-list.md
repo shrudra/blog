@@ -21,7 +21,7 @@ permalink: /about/bucket-list/
       <li>Create an open-source student club management software called "phpWorko."</li>
       <li>Contribute to 100+ Wikipages.</li>
       <li>Enter a nature photography contest organized by the Wikimedia Foundation.</li>
-      <li>Secure an internship with a reputable software or IT firm, such as Brain Station 23 Ltd, Creative IT Institute, or Tiger IT Ltd.</li>
+      <li>Secure an internship with a reputable software or IT firm, such as Intelligence machine, Brain Station 23 Ltd, Creative IT Institute, or Tiger IT Ltd.</li>
       <li>Pursue a scholarship to attend Dhaka University of Engineering & Technology or Yunnan University, China, after completing the Diploma in Engineering program.</li>
       <li>Conduct research on "Automatic Crop Disease Diagnosis using Vision Deep CNN Approach" and publish it in a respected journal.</li>
       <li>Attend a top-ranked university and earn a Master's degree in Data Science or Computer Science with a focus on Artificial Intelligence.</li>
