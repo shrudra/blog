@@ -8,7 +8,7 @@ permalink: /about/
 
 # Hi There!
 
-My name is Sakhawat Hossain (you can call me 'S. Hossain') and I'm from Dhaka. I'm the coordinator at [Scratch Bangladesh](https://scratchbangladesh.com/). Where, I am planning and organizing events and activities to showcase Scratch projects and inspire children for learning programming.
+My name is Sakhawat Hossain (you can call me 'S. Hossain') and I'm from Dhaka. I'm a Mentor at [Scratch Bangladesh](https://scratchbangladesh.com/). 
 
 ## 5 Random Facts About Me
 
