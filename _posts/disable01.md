@@ -1,6 +1,6 @@
 ---
 
-layout: post
+layout: disable 
 
 title: Automatic Crop Disease Diagnosis using Vision Deep CNN Approach
 
