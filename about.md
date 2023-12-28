@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-![photo](https://raw.githubusercontent.com/shrudra/blog/master/images/photo_sakhsain.jpg)
+![photo](https://raw.githubusercontent.com/shrudra/blog/master/images/shrudra.png)
 
 # Hi There!
 
