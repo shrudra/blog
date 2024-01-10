@@ -8,7 +8,7 @@ GitHub Copilot helps developers code better and faster. It uses AI to suggest id
 
 ### 4 Tips for Using Copilot Effectively
 
-- **Understand Suggestions:** Take a moment to understand Copilot's suggestions, understand the suggested code. It's important to ensure the code match with your project' 
+- **Understand Suggestions:** Take a moment to understand Copilot's suggestions, understand the suggested code. It's important to ensure the code match with your project.
   
 - **Customize as Needed:** Copilot's suggestions might not always be perfect. Be ready to modify or write code manually when necessary. 
 
