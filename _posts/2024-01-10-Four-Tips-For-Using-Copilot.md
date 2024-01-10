@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 4 Tips for Using Copilot Effectively
+title: 4 Important Tips to Using Copilot 
 ---
 
 # Introduction
