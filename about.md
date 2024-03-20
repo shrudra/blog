@@ -4,11 +4,6 @@ title: About
 permalink: /about/
 ---
 
-![photo](https://raw.githubusercontent.com/shrudra/blog/master/images/shrudra.png)
-
-# Hi There!
-
-My name is Sakhawat Hossain (you can call me 'S. Hossain') and I'm from Dhaka. I'm a Mentor at [Scratch Bangladesh](https://scratchbangladesh.com/). 
 
 ## 5 Random Facts About Me
 
